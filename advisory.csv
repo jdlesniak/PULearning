@@ -1,0 +1,201 @@
+ID,Label,Age,Income,Job Type,Tax Classification
+1,Unknown,39.0,512000.0,Chief Officier,Low
+2,Advisory,24.0,295000.0,VP,High
+3,Unknown,36.0,445000.0,Chief Officier,High
+4,Unknown,50.0,564999.9999999999,Chief Officier,Medium
+5,Unknown,19.0,327000.0,Owner,Low
+6,Unknown,22.0,277000.00000000006,Chief Officier,Medium
+7,Unknown,39.0,471000.0,VP,Low
+8,Unknown,63.0,758000.0,Owner,Medium
+9,Unknown,22.0,335000.0,Owner,High
+10,Unknown,35.0,352000.0,VP,Low
+11,Unknown,33.0,464000.0,Chief Officier,Medium
+12,Advisory,45.0,541000.0000000001,Chief Officier,Medium
+13,Unknown,33.0,468000.0,Chief Officier,Medium
+14,Unknown,25.0,300000.0,Chief Officier,Low
+15,Unknown,31.0,464000.0,Owner,Mediud
+16,Unknown,,,VP,High
+17,Unknown,64.0,713000.0,VP,Medium
+18,Unknown,61.0,724000.0,Owner,Medium
+19,Unknown,31.0,489000.0,Chief Officier,Medium
+20,Unknown,43.0,480000.0,Chief Officier,Lod
+21,Unknown,21.0,372000.0,Owner,High
+22,Advisory,55.00000000000001,646000.0,Owner,Low
+23,Unknown,41.0,588000.0,Chief Officier,High
+24,Unknown,64.0,727000.0,Owner,Low
+25,Unknown,56.00000000000001,666000.0,VP,Low
+26,Unknown,31.0,360000.0,Chief Officier,Low
+27,Unknown,65.0,701000.0,VP,Lod
+28,Unknown,55.00000000000001,643000.0,Owner,Low
+29,Unknown,25.0,403000.0,Owner,High
+30,Unknown,46.0,510000.0,Chief Officier,Low
+31,Unknown,,,Owner,High
+32,Advisory,52.0,580999.9999999999,Chief Officier,Medium
+33,Unknown,62.0,668000.0,VP,High
+34,Unknown,55.00000000000001,627000.0,Owner,Low
+35,Unknown,21.0,356000.0,Owner,Low
+36,Unknown,44.0,520000.0,Chief Officier,Medium
+37,Unknown,67.0,758000.0,VP,Low
+38,Unknown,29.0,343000.0,VP,Higd
+39,Unknown,44.0,548000.0000000001,Chief Officier,High
+40,Unknown,46.0,523000.0,Chief Officier,Medium
+41,Unknown,38.0,535000.0,Chief Officier,Higd
+42,Advisory,50.0,586000.0,Chief Officier,Medium
+43,Unknown,33.0,393000.0,Chief Officier,Medium
+44,Unknown,26.0,404000.0,Owner,Medium
+45,Unknown,46.0,644000.0,Owner,High
+46,Unknown,,,Owner,High
+47,Unknown,50.0,648000.0,Chief Officier,High
+48,Unknown,47.0,520000.0,Chief Officier,Low
+49,Unknown,40.0,504000.0,Chief Officier,Low
+50,Unknown,42.0,484000.0,Chief Officier,Medium
+51,Unknown,47.0,587000.0,VP,High
+52,Advisory,45.0,528000.0,Chief Officier,Medium
+53,Unknown,25.0,409000.0,Owner,Low
+54,Unknown,38.0,484000.0,Owner,High
+55,Unknown,44.0,606000.0,Chief Officier,High
+56,Unknown,33.0,410000.0,Chief Officier,High
+57,Unknown,,,Owner,Low
+58,Unknown,42.0,503000.0,Chief Officier,Medium
+59,Unknown,55.00000000000001,635000.0,VP,Medium
+60,Unknown,44.0,478000.0,VP,High
+61,Unknown,18.0,398000.0,Owner,High
+62,Advisory,56.99999999999999,657000.0,Owner,Low
+63,Unknown,46.0,526000.0,Chief Officier,Medium
+64,Unknown,68.0,3920000.0,Owner,Medium
+65,Unknown,60.0,717000.0,VP,High
+66,Unknown,57.99999999999999,654000.0,Vr,Medium
+67,Unknown,,,VP,Medium
+68,Unknown,48.0,558000.0000000001,Chief Officier,High
+69,Unknown,,,Chief Officier,Medium
+70,Unknown,,,Chief Officier,Low
+71,Unknown,32.0,2135000.0,Chief Officier,High
+72,Advisory,48.0,569999.9999999999,Chief Officier,High
+73,Unknown,66.0,750000.0,VP,Low
+74,Unknown,61.0,700000.0,Owner,High
+75,Unknown,57.99999999999999,689000.0,Chief Officier,Low
+76,Unknown,19.0,240000.0,VP,High
+77,Unknown,42.0,489000.0,Chief Officier,High
+78,Unknown,43.0,480000.0,Chief Officier,Low
+79,Unknown,,,Chief Officier,High
+80,Unknown,42.0,480000.0,Chief Officier,High
+81,Unknown,27.0,348000.0,Owner,Low
+82,Advisory,29.0,371000.0,Owner,Medium
+83,Unknown,,,Chief Officier,High
+84,Unknown,48.0,566999.9999999999,Chief Officier,High
+85,Unknown,44.0,552000.0000000001,Owner,High
+86,Unknown,23.0,263000.0,VP,Medium
+87,Unknown,36.0,530000.0,VP,Medium
+88,Unknown,64.0,725000.0,Owner,Low
+89,Unknown,21.0,343000.0,Owner,Low
+90,Unknown,27.0,327000.0,VP,High
+91,Unknown,31.0,486000.0,Chief Officier,High
+92,Advisory,36.0,410000.0,Chief Officier,Low
+93,Unknown,46.0,588000.0,Chief Officier,Medium
+94,Unknown,56.99999999999999,698000.0,Owner,High
+95,Unknown,52.0,594000.0,Chief Officier,Low
+96,Unknown,,,Owner,High
+97,Unknown,56.00000000000001,563999.9999999999,VP,Lod
+98,Unknown,55.00000000000001,600000.0,Chief Officier,Low
+99,Unknown,62.0,663000.0,VP,Medium
+100,Unknown,34.0,390000.0,Chief Officier,Low
+101,Unknown,67.0,804000.0,VP,Medium
+102,Advisory,27.0,337000.0,VP,Medium
+103,Unknown,67.0,716000.0,Vr,Medium
+104,Unknown,32.0,407000.0,Chief Officier,Medium
+105,Unknown,67.0,783000.0,Chief Officier,High
+106,Unknown,42.0,470000.0,Chief Officier,Low
+107,Unknown,55.00000000000001,620000.0,VP,High
+108,Unknown,50.0,563999.9999999999,Chief Officier,High
+109,Unknown,34.0,465000.0,Chief Officier,Low
+110,Unknown,50.0,550000.0000000001,Chief Officier,Lod
+111,Unknown,25.0,371000.0,Owner,Low
+112,Advisory,27.0,285999.99999999994,VP,Medium
+113,Unknown,43.0,511000.0,Chief Officier,Medium
+114,Unknown,34.0,394000.0,Chief Officier,High
+115,Unknown,43.0,532000.0,Chief Officier,Low
+116,Unknown,,,Chief Officier,Medium
+117,Unknown,33.0,493000.0,Chief Officier,High
+118,Unknown,25.0,280000.00000000006,VP,Low
+119,Unknown,66.0,750000.0,VP,Medium
+120,Unknown,51.0,579999.9999999999,Chief Officier,Medium
+121,Unknown,28.000000000000004,384000.0,Owner,High
+122,Advisory,45.0,500000.0,Chief Officier,Low
+123,Unknown,43.0,565999.9999999999,Chief Officier,Lod
+124,Unknown,38.0,430000.0,Chief Officier,Low
+125,Unknown,31.0,435000.0,Chief Officier,Low
+126,Unknown,60.0,713000.0,Owner,High
+127,Unknown,44.0,630000.0,Owner,Low
+128,Unknown,27.0,294000.0,VP,Low
+129,Unknown,,,Owner,Low
+130,Unknown,29.0,300000.0,VP,Low
+131,Unknown,56.00000000000001,637000.0,VP,High
+132,Advisory,29.0,318000.0,VP,High
+133,Unknown,52.0,2919999.9999999995,Chief Officier,Low
+134,Unknown,49.0,557000.0000000001,Chief Officier,Medium
+135,Unknown,29.0,2430000.0,Owner,Medium
+136,Unknown,29.0,363000.0,Owner,High
+137,Unknown,22.0,277000.00000000006,Chief Officier,Low
+138,Unknown,50.0,550000.0000000001,Chief Officier,Low
+139,Unknown,50.0,3145000.0,Owner,High
+140,Unknown,55.00000000000001,625000.0,Owner,Low
+141,Unknown,32.0,418000.0,Chief Officier,Medium
+142,Advisory,40.0,524000.0,Owner,High
+143,Unknown,20.0,301000.0,Chief Officier,Medium
+144,Unknown,22.0,236000.0,VP,High
+145,Unknown,22.0,1725000.0,Owner,Low
+146,Unknown,59.0,667000.0,Owner,Low
+147,Unknown,64.0,772000.0,VP,High
+148,Unknown,29.0,335000.0,VP,Low
+149,Unknown,34.0,432000.0,Chief Officier,Medium
+150,Unknown,64.0,711000.0,Owner,Low
+151,Unknown,29.0,413000.0,Owner,High
+152,Advisory,63.0,706000.0,Owner,Medium
+153,Unknown,,,Owner,Medium
+154,Unknown,48.0,559000.0000000001,Chief Officier,Medium
+155,Unknown,20.0,348000.0,Owner,Low
+156,Unknown,34.0,428000.0,VP,High
+157,Unknown,26.0,423000.0,Owner,High
+158,Unknown,64.0,748000.0,Owner,Medium
+159,Unknown,,,Chief Officier,Medium
+160,Unknown,61.0,679000.0,Owner,Low
+161,Unknown,61.0,750000.0,VP,Higd
+162,Advisory,46.0,517000.0,Chief Officier,Medium
+163,Unknown,51.0,627000.0,Chief Officier,High
+164,Unknown,62.0,697000.0,Owner,Medium
+165,Unknown,24.0,377000.0,Owner,Low
+166,Unknown,,,Owner,Medium
+167,Unknown,49.0,652000.0,Chief Officier,Higd
+168,Unknown,53.0,601000.0,Owner,High
+169,Unknown,48.0,660000.0,Chief Officier,Medium
+170,Unknown,33.0,425000.0,Chief Officier,Medium
+171,Unknown,,,Owner,High
+172,Advisory,57.99999999999999,707000.0,Owner,High
+173,Unknown,56.00000000000001,593000.0,VP,Low
+174,Unknown,68.0,726000.0,VP,High
+175,Unknown,,,VP,High
+176,Unknown,48.0,2874999.9999999995,Chief Officier,Medium
+177,Unknown,52.0,644000.0,Chief Officier,Medium
+178,Unknown,,,Owner,High
+179,Unknown,18.0,285999.99999999994,Chief Officier,Medium
+180,Unknown,18.0,203000.0,VP,High
+181,Unknown,57.99999999999999,662000.0,Vr,High
+182,Advisory,33.0,382000.0,VP,Medium
+183,Unknown,,,Chief Officier,Medium
+184,Unknown,29.0,330000.0,VP,Low
+185,Unknown,46.0,629000.0,Chief Officier,High
+186,Unknown,31.0,360000.0,Chief Officier,Low
+187,Unknown,,,Chief Officier,Medium
+188,Unknown,61.0,625000.0,VP,Medium
+189,Unknown,46.0,579999.9999999999,Owner,Medium
+190,Unknown,38.0,430000.0,Chief Officier,Low
+191,Unknown,45.0,518000.0,Chief Officier,Low
+192,Advisory,61.0,674000.0,Owner,Medium
+193,Unknown,47.0,636000.0,Owner,High
+194,Unknown,40.0,2325000.0,Chief Officier,High
+195,Unknown,29.0,448000.0,Owner,High
+196,Unknown,56.00000000000001,675000.0,Owner,High
+197,Unknown,31.0,373000.0,Chief Officier,Low
+198,Unknown,52.0,562999.9999999999,VP,High
+199,Unknown,28.000000000000004,364000.0,VP,High
+200,Unknown,19.0,215000.0,VP,Medium
